@@ -91,3 +91,5 @@ A permanent Zenodo DOI will be added after archival of the versioned GitHub rele
 ## License
 
 This repository is distributed under the MIT License. See `LICENSE`.
+
+Zenodo archival enabled for versioned software releases.
